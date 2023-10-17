@@ -32,7 +32,6 @@ baseurl: /hdg     # place folder name if the site is served in a subfolder
 twitter_username: jekyllrb
 github_username:  jekyll
 
-
 # Build settings
 theme: minima
 plugins:
