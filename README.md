@@ -1,2 +1,3 @@
 # hdg
-Testing Git Hub Pages
+Setting up my website
+
